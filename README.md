@@ -49,11 +49,11 @@ http://sunrise-sunset.org/api is a suggested free api to use
 
 We want a user to be able to use our site as follows:
 
-1. enter a latitude, longitude, and a date range (default to the past seven days).
-1. see table-like presentation of brief sunrise and sunset data (columns for sunrise, sunset, day length), where each row would be a day in the requested range.
-1. a user can sort the table by any of the columns ascending or descending (see bonus about saving settings)
-1. a user can click on a row in the table to view more detailed data about that date (additional info like solar noon, civil twilight begin/end, & c. is displayed).
-1. maybe something about preserving browser history so forward and back buttons work?
+1. Enter a latitude, longitude, and a date range (default to the past seven days).
+1. See table-like presentation of brief sunrise and sunset data (columns for sunrise, sunset, day length), where each row would be a day in the requested range.
+1. A user can sort the table by any of the columns ascending or descending (see bonus about saving settings)
+1. A user can click on a row in the table to view more detailed data about that date (additional info like solar noon, civil twilight begin/end, & c. is displayed). On this page, please include a display of rfNauticalAfternoon, defined by our business people as the time elapsed from "solar noon" until the end of nautical twilight.
+1. Maybe something about preserving browser history so forward and back buttons work?
 
 
 #### Bonus options:
