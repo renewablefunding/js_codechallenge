@@ -6,6 +6,7 @@ Hi there!  We're ecstatic that you're interested in working for Renewable Fundin
 1. Create a web application using the [AngularJS framework](https://angularjs.org/).
 1. Make sure your app is runnable on Mac OS X or Linux.
 1. Do not require any for-pay software.
+1. Include unit tests (Jasmine)
 1. Include instructions for setting up and running your application.
 
 Feel free to email us at [devteam@renewfund.com](devteam@renewfund.com) if you have any questions.
@@ -52,7 +53,7 @@ We want a user to be able to use our site as follows:
 1. see seven-days worth (ending with user's requested date) of brief sunrise and sunset data (sunrise, sunset, day length) in a table-like view.
 1. a user can sort the table by any of the columns ascending or descending (maybe something about saving settings?)
 1. a user can click on a row in the table to view a more detailed page about that date (additional info like solar noon, civil twilight begin/end displayed).
-1. maybe something about browser history
+1. maybe something about browser history?
 
 
 #### Bonus options:
