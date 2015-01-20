@@ -45,15 +45,15 @@ Unfortunately, Github no longer allows you to fork a public repo and make it pri
 
 Imagine that Renewable Funding has just decided to get into the suddenly-lucrative market of apparent-solar-time analysis.
 
-http://sunrise-sunset.org/api is a suggested free api
+http://sunrise-sunset.org/api is a suggested free api to use
 
 We want a user to be able to use our site as follows:
 
-1. enter a latitude, longitude, and a date (default to today).
-1. see seven-days worth (ending with user's requested date) of brief sunrise and sunset data (sunrise, sunset, day length) in a table-like view.
-1. a user can sort the table by any of the columns ascending or descending (maybe something about saving settings?)
-1. a user can click on a row in the table to view a more detailed page about that date (additional info like solar noon, civil twilight begin/end displayed).
-1. maybe something about browser history?
+1. enter a latitude, longitude, and a date range (default to the past seven days).
+1. see table-like presentation of brief sunrise and sunset data (columns for sunrise, sunset, day length), where each row would be a day in the requested range.
+1. a user can sort the table by any of the columns ascending or descending (see bonus about saving settings)
+1. a user can click on a row in the table to view more detailed data about that date (additional info like solar noon, civil twilight begin/end, & c. is displayed).
+1. maybe something about preserving browser history so forward and back buttons work?
 
 
 #### Bonus options:
