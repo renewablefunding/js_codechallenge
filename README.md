@@ -63,8 +63,8 @@ We want a user to be able to use our site as follows:
 
 If you're feeling inspired, bonus points for:
 
-* allow a user to save settings for the table view (e.g. a specific seven day period sorted by day length, descending) with a url that can be linked to and display these settings.
-* allow a user to set the time zone in which all times are displayed.
+* enabling a user to save settings for the table view (e.g. a specific seven day period sorted by day length, descending) with a url that can be linked to and display these settings.
+* enabling a user to set the time zone in which all times are displayed.
 
 ## Evaluation
 
