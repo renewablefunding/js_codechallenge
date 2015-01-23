@@ -48,9 +48,9 @@ Renewable Funding has decided to enter the lucrative market of apparent-solar-ti
 
 It's a no brainer given the availability of APIs like these:
 
-http://sunrise-sunset.org/api 
-https://developers.google.com/maps/documentation/geocoding/#geocoding
-https://msdn.microsoft.com/en-us/library/ff701714.aspx
+* http://sunrise-sunset.org/api 
+* https://developers.google.com/maps/documentation/geocoding/#geocoding
+* https://msdn.microsoft.com/en-us/library/ff701714.aspx
 
 We want a user to be able to use our site as follows:
 
