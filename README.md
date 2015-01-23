@@ -68,7 +68,7 @@ If you're feeling inspired, bonus points for:
 
 ## Evaluation
 
-Reviewers will assess your familiarity with standard libraries, single-page app best pratices, and test coverage.
+Reviewers will assess your familiarity with standard libraries, single-page app best practices, and test coverage.
 
 1. Did your application fulfill the basic requirements?
 1. Did you document the method for setting up and running your application?
