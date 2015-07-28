@@ -8,7 +8,7 @@ Hi there! We're ecstatic that you're interested in working for Renewable Funding
 1. Do not require any for-pay software.
 1. Include instructions for setting up and running your application locally.
 
-We currently use Angular, Jasmine, Bootstrap, RequireJS but you may use any libraries or frameworks you wish.
+We currently use Angular, Jasmine, and Bootstrap but you may use any libraries or frameworks you wish.
 
 Feel free to email us at [devteam@renewfund.com](devteam@renewfund.com) if you have any questions.
 
@@ -56,7 +56,7 @@ We want a user to be able to use our site as follows:
 
 1. Enter an address and a date range (default to the past seven days).  
 1. See table-like presentation of sunrise time, sunset time, and day length. Each row would be a day in the requested range.
-1. A user can sort the table by any of the columns ascending or descending. 
+1. A user can sort the table by date range in ascending or descending order. 
 1. A user can click on a row in the table to view more detailed data about that date (additional info like solar noon, civil twilight begin/end, & c. is displayed). On this page, please include a display of rfNauticalAfternoon, defined by our business people as the time elapsed from solar noon until the end of nautical twilight.
 
 #### Bonus options:
