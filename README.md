@@ -1,7 +1,7 @@
-Renewable Funding: jsCodeChallenge
+Renew Financial: jsCodeChallenge
 =================================
 
-Hi there! We're ecstatic that you're interested in working for Renewable Funding's dev team. To get a better idea of your current development skills, we'd like for you to complete a code challenge - build an application according to a set of requirements. The actual business requirements are listed further down, but here are the general tech requirements:
+Hi there! We're ecstatic that you're interested in working for Renew Financial's dev team. To get a better idea of your current development skills, we'd like for you to complete a code challenge - build an application according to a set of requirements. The actual business requirements are listed further down, but here are the general tech requirements:
 
 1. Create a single-page web application.
 1. Make sure your app is runnable on Mac OS X or Linux.
@@ -48,28 +48,31 @@ Renewable Funding has decided to enter the lucrative market of apparent-solar-ti
 
 It's a no brainer given the availability of APIs like these:
 
-* http://sunrise-sunset.org/api 
+* http://sunrise-sunset.org/api
 * https://developers.google.com/maps/documentation/geocoding/#geocoding
-* https://msdn.microsoft.com/en-us/library/ff701714.aspx
+* https://developers.google.com/maps/documentation/timezone/intro
 
 We want a user to be able to use our site as follows:
 
-1. Enter an address and a date range (default to the past seven days).  
-1. See table-like presentation of sunrise time, sunset time, and day length. Each row would be a day in the requested range.
-1. A user can sort the table by date range in ascending or descending order. 
-1. A user can click on a row in the table to view more detailed data about that date (additional info like solar noon, civil twilight begin/end, & c. is displayed). On this page, please include a display of rfNauticalAfternoon, defined by our business people as the time elapsed from solar noon until the end of nautical twilight.
+1. Enter an address and a date range
+  1. Range of dates should default to the past seven days.
+  1. Range of dates should not exceed 14 days.
+1. See table-like presentation of sunrise time, sunset time, rfNauticalAfternoon, and day length where each row represents one day in the requested range.
+  1. The table should be sorted by date with the most recent days on top.
+  1. The times should reflect the time zone in which the address is located.
+  1. rfNauticalAfternoon has been defined by our business people as the time elapsed from solar noon until the end of nautical twilight.
 
 #### Bonus options:
 
 If you're feeling inspired, bonus points for:
 
-* enabling a user to save settings for the table view (e.g. a specific seven day period sorted by day length, descending) with a url that can be linked to and display these settings.
-* enabling a user to set the time zone in which all times are displayed.
+* enabling a user to save settings for the table view (e.g. a specific date range) with a url that can be linked to and display these settings.
+* test coverage
 
 ## Evaluation
 
-Reviewers will assess your familiarity with standard libraries, single-page app best practices, and test coverage.
+Reviewers will assess your familiarity with standard libraries and single-page app best practices.
 
-1. Did your application fulfill the basic requirements?
+1. Did your application fulfill the requirements?
 1. Did you document the method for setting up and running your application?
 1. Did you follow the instructions for submission?
