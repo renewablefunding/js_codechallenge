@@ -1,0 +1,28 @@
+{
+  "name": "angular-google-places-autocomplete",
+  "version": "0.2.4",
+  "main": [
+    "/src/autocomplete.js",
+    "/src/autocomplete.css",
+    "/dist/autocomplete.min.js",
+    "/dist/autocomplete.min.css"
+  ],
+  "dependencies": {
+    "angular": "1.2.x"
+  },
+  "devDependencies": {
+    "angular-mocks": "~1.2.x"
+  },
+  "ignore": [],
+  "homepage": "https://github.com/kuhnza/angular-google-places-autocomplete",
+  "_release": "0.2.4",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.2.4",
+    "commit": "50f5ffd8066a091f7be8646ab49f47e6baf707cf"
+  },
+  "_source": "git://github.com/kuhnza/angular-google-places-autocomplete.git",
+  "_target": "~0.2.4",
+  "_originalSource": "angular-google-places-autocomplete",
+  "_direct": true
+}
